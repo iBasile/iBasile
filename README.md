@@ -12,7 +12,6 @@
 ![HTML](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
 ![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1)
-![CSS](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6)
 ![NodeJS](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%23339933)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032)
